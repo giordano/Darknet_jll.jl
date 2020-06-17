@@ -1,0 +1,228 @@
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "50ee59141706a1fcc15aa0e531e32cd2de60b34c"
+libc = "glibc"
+march = "armv8"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "f0311afee37984ede8389381f6c1d762d25794296f522ec75ee71f3b1c9e2239"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-gnu-cxx11-march+armv8.tar.gz"
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4e763b96de3769f8ea92a242d8c3a0be373a282"
+libc = "glibc"
+march = "carmel"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "a1da6fff1ef1e0796ddb8cb957c36e03d644c409cf85508b92d3204c5403e264"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-gnu-cxx11-march+carmel.tar.gz"
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e850ee5ace63b403d230e9bd8e78af4cb1630b9"
+libc = "glibc"
+march = "thunderx2"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "5515d78ba0da6968dc52368532bb71c5cbd7a4041863f429ed31d3eba8371e1a"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-gnu-cxx11-march+thunderx2.tar.gz"
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed93578e642a5d30fea85d9bfcea7ac03b045101"
+libc = "musl"
+march = "armv8"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "e6b0d9c016b8ef37baded72ed04c1b0827e69893a3485285e1371da825f4a484"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-musl-cxx11-march+armv8.tar.gz"
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0620f0460e3db41d4c6a9eb698b3a76f717c753f"
+libc = "musl"
+march = "carmel"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "b2b4964fb84fd00b39cc67966b98ad57ed80b81383044432b7c75a325e6d5cf4"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-musl-cxx11-march+carmel.tar.gz"
+[[Darknet]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0a3f66a0a0250f1c166f169f9c71101f2b6fd89"
+libc = "musl"
+march = "thunderx2"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "e6baed1052ef916294bd327677a28630f422df8e8e4d0f83bf3abd28b6dd5050"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.aarch64-linux-musl-cxx11-march+thunderx2.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a2579b007f0165e5d0c0a81ecac9273ae2c722b"
+libc = "glibc"
+march = "armv7l"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "4434bbc7e6b6252e9214d2db0c72d31976f0c01388cc952cc2a05c1bd75feb9e"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-gnueabihf-cxx11-march+armv7l.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5051e7d1f7d012e68d090b43d27fe3a0282a1f99"
+libc = "glibc"
+march = "neon"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "9540a5e32009c650fafaab9a82d145bd5b47df579c7d21f955895f33b325ae7a"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-gnueabihf-cxx11-march+neon.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60d19984201a28e0aa3b5aafca049dd0222f989d"
+libc = "glibc"
+march = "vfp4"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "d15cc986be98ab7c8beea08ac9a121f4ec253aaa8b1d4e4752a2ad0773a4454d"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-gnueabihf-cxx11-march+vfp4.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "194d49401f65240315d650d21e3e726acc391ee6"
+libc = "musl"
+march = "armv7l"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "d869d72023cc63bb91f6a7f7b2e2c19353bb248b7744f50b0b1534aca405fe8d"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-musleabihf-cxx11-march+armv7l.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98dc1e3fcff08963aa70ca25e5cc9c7af830ad7f"
+libc = "musl"
+march = "neon"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "d6901a397f39978031f0c4ff196444f8c2117ae7e096119e1fc09abd74e349f5"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-musleabihf-cxx11-march+neon.tar.gz"
+[[Darknet]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "839f0d654af3e725b9de9243aaeacca4e33cea32"
+libc = "musl"
+march = "vfp4"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "50a02b73cb028ac98a3a57e425d0dcded8888bf22b9411dd674593f5218ea974"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.armv7l-linux-musleabihf-cxx11-march+vfp4.tar.gz"
+[[Darknet]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c87b3ce6925a04c8c126203bb8374750cc47a43"
+libc = "glibc"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "980a551d0209db8d256df962d1e05c3344faca9e859f3f857e5c57393d36c099"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.i686-linux-gnu-cxx11.tar.gz"
+[[Darknet]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e41e334a41b7641d5e58618883b758505bf4bcf"
+libc = "musl"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "5b0170c38384ea558ebc92f1cc91d865d3ab2f1363d2de770c64e2d12be47f89"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.i686-linux-musl-cxx11.tar.gz"
+[[Darknet]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d2953ff2a376575423b0c78ade238ff090f67f5"
+libc = "glibc"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "778a4a5490b77b611933a83d4be4db32650356df304a29c0510639d2c2f150ab"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b5e33da1eb47353017992861ccc7b812e3812a8"
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "314f52e0285ec27a665411a82982ada722ce92d1aedab96eba226175432da4ff"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-gnu-cxx11-march+avx2.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fbe36a917991a8e0b430039e39e8e52e651b3e0"
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "d4e28c5a8a5f878f0f9efdbd4319c48288557bb722f1d0212633590de289cab7"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-gnu-cxx11-march+avx512.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7874409d85e5eea8f08668901d9526d7180c380"
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "9d9d02d0ca43174936e1e8418811683d489af176d38cdbbf17163b64c0fe754a"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-gnu-cxx11-march+x86_64.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d18d5567f3ae648af76568f1347b7b5d5960dc7"
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "8a3fab776b393e2409b04bffbff4d94ed112686aa56227914e3920c498e22f5a"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-musl-cxx11-march+avx2.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "188d6e89a46c28731b212876f5a3425574d11575"
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "fa0285e3e812983cc5d22b810e5066f3ff16d436abc089c38208d50ed4047dd0"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-musl-cxx11-march+avx512.tar.gz"
+[[Darknet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7e1c7eb0c035091186f9a32fe5b071d1fd0569a"
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[Darknet.download]]
+    sha256 = "6ac6a34459aab9e6335bff528eeba1cdbdfdceb04a589dc245ca77236fad5005"
+    url = "https://github.com/giordano/Darknet_jll.jl/releases/download/Darknet-v2020.6.5+2/Darknet.v2020.6.5.x86_64-linux-musl-cxx11-march+x86_64.tar.gz"
